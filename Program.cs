@@ -5,6 +5,7 @@ Console.ForegroundColor = ConsoleColor.DarkRed;
 string repeat = "Y";
 
 int x_pos = 0;
+
 do
 {
 
